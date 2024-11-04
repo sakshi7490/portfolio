@@ -1,0 +1,43 @@
+*{
+    background-color: #DDFFE7;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+   
+h1 {
+    text-align: center;
+    color : #29A0B1;
+    font-size: 60px;
+    padding:0%;
+    margin: 1%;
+
+}
+u{
+    font-size: 30px;
+}
+h2 {
+text-align: center;
+margin:0%;
+font-size: 40px;
+
+}
+#id1{
+    width: 47%;
+
+}
+#id2{
+    width: 47%;
+}
+#id3{
+    width: 47%;
+    float: right;
+}
+#id4{
+    width: 47%;
+}
+.img_deg{
+    float: right;
+    margin-right: 4%;
+}
+footer{
+    float: right;
+}
